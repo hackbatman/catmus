@@ -1,0 +1,22 @@
+div.titulo{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    background-color:  rgba(0, 0,0,0.6);
+  
+  
+  }
+  div.h2{
+    top: 50%;
+    left: 40%;
+    font-family: 'Franklin Gothic';
+    font-size: 50px;
+    color: rgb(133, 130, 138);
+  
+  }
+ 
+  body{
+  position:absolute;
+  top: 50%;
+  left: 50%;
+}
